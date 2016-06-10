@@ -1,2 +1,2 @@
 # ember_tutorial
-http://ember.vicramon.com/introduction
+https://guides.emberjs.com/v2.2.0/tutorial/ember-cli/
